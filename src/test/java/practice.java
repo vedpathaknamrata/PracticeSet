@@ -13,6 +13,8 @@ public class practice {
 		int c = 23, d = 25; 
 
 		System.out.println("c>d");
+		
+		System.out.println("for change");
 
 			}
 	}
